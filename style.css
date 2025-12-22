@@ -1,0 +1,11 @@
+#submitimage {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+#submitimage img {
+  width: 160px;   
+  height: auto;
+  display: block;
+}
