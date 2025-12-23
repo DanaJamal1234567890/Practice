@@ -9,7 +9,7 @@ body {
     margin-bottom: 30px;
 }
 #submit-button {
-    width: 150px;   
+    width: 150px;  /* optional: match logo width */
     cursor: pointer;
     margin-top: 20px;
 }
